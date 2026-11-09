@@ -1,7 +1,4 @@
-# 2026-otus-java-Beletskaia
-
-<li>Java Developer. Basic</li>
-
+# Java Developer. Basic
 #hw1 Домашнее задание 1
 Практика по основам языка Java #1
 Цель: научиться решать простые задачи с использованием изученных конструкций языка Java.
